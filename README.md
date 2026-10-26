@@ -4,8 +4,6 @@
 
 I have **5+ years of commercial development experience**, working on complex B2B platforms, real-time applications, AI integrations, and business-critical workflows.
 
-Currently focused on growing deeper as a **Full-Stack TypeScript Engineer** and exploring interactive web experiences with **PixiJS**.
-
 ## 🛠 Tech Stack
 
 **Frontend**
@@ -42,7 +40,7 @@ E-commerce web application built with Angular and TypeScript, featuring a respon
 
 **Stack:** `TypeScript` `Angular` `Vercel` `Stripe` `Node.js` `Tailwind` `CSS` `RxJS`
 
-[View repository →](https://store-ang.vercel.app/home)
+[View repository →](https://github.com/JenkJS/store-ang)
 
 [DEMO →](https://store-ang.vercel.app/home)
 
