@@ -1,6 +1,6 @@
 # Hi, I'm Yauheni 👋
 
-**Full-Stack TypeScript Developer** focused on building modern web applications with React and Node.js.
+**Full-Stack TypeScript Developer** focused on building modern web applications with Angular, React, Vue and Node.js.
 
 I have **5+ years of commercial development experience**, working on complex B2B platforms, real-time applications, AI integrations, and business-critical workflows.
 
